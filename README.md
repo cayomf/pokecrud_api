@@ -3,10 +3,10 @@ A Fake API made to be consumed by the Pokecrud application. Made in Javascript l
 
 
 # Getting Started
-- Install Node
+1 - Install Node
 <br>
-```npm install```
+2 - ```npm install```
 <br>
-- Add the right link to your MongoDB Database on .env
-- Run
+3 - Add the right link to your MongoDB Database on .env
+4 - Run
 
